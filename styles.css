@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: aria-label;
+  }
+
+.topnav {
+    overflow: visible;
+    background-color: white;
+  }
+
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: white;
+     color: rgb(156, 30, 146);
+  }
+
+  .topRight{
+    overflow: visible;
+    background-color: white;
+  }
+ 
+  .topRight{
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  #divEntrar{
+      padding-left: 5px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:#bbbbbb;
+    border-radius:3px;
+    height: 30px;
+    width: 45px;
+  }
+
+  #divCadastro{
+    padding-left: 5px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:rgb(156, 30, 146);
+    border-radius:3px;
+    height: 30px;
+    width: 80px;
+
+  }
